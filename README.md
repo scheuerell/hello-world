@@ -1,3 +1,3 @@
 # hello-world
 sandbox and misc 
-firts hand edit
+first hand edit
